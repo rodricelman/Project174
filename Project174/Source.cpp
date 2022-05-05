@@ -2,5 +2,5 @@
 #include<conio.h>
 using namespace std;
 void main() {
-	cout << "hola";
+	cout << "adios";
 }
